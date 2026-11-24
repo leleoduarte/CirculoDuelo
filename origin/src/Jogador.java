@@ -48,4 +48,7 @@ public abstract class Jogador {
             }
         }
     }
+
+    public abstract void apresentarPersonagem();
+
 }
