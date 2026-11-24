@@ -1,0 +1,3 @@
+public class Partida implements Jogo {
+    //Implemnetar os métodos da interface Jogo...
+}
