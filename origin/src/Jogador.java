@@ -51,4 +51,13 @@ public abstract class Jogador {
 
     public abstract void apresentarPersonagem();
 
-}
+    }
+    protected ArrayList<Feitico> getInventarioFeiticos() {
+    return feiticos;
+    }
+
+    protected ArrayList<Pocao> getInventarioPocoes() {
+    return pocoes;
+        }
+
+
