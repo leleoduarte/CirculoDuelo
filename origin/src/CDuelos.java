@@ -5,7 +5,9 @@ public class CDuelos {
 
     private Scanner teclado = new Scanner(System.in);
     private boolean jogadoresSelecionados = false;
-
+    private Jogador jogador1;
+    private Jogador jogador2;
+    
     public void iniciarJogo(){
         int opc;
 
